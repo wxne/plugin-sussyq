@@ -1,0 +1,7 @@
+name: testerPlugin
+version: '${version}'
+main: pl.tripmc.testerplugin.TesterPlugin
+api-version: '1.18'
+
+commands:
+  skin:
